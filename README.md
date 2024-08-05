@@ -1,1 +1,1 @@
-# Currently working on a steganography 🌃 tool using Python and PyQt: https://github.com/Isabella-Mclean/steganographyTool
+# Currently working on a some cool AI projects for my software engineering fellowship at headstarter!
